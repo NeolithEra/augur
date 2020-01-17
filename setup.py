@@ -69,7 +69,7 @@ setup(
         'pony==0.7.3',
         'arrow==0.7.0',
         'boto3==1.2.6',
-        'botocore==1.4.49',
+        'botocore <2.0.0',
         'jira',
         'Mako==1.0.3',
         'oauthlib==1.0.3',
